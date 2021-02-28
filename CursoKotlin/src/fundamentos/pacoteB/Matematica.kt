@@ -1,4 +1,4 @@
-package funcamentos.pacoteB
+package fundamentos.pacoteB
 
 fun soma(a: Int, b: Int): Int {
     return a + b

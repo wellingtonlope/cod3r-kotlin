@@ -1,4 +1,4 @@
-package funcamentos
+package fundamentos
 
 fun imprimirSoma(a: Int, b: Int) {
     println(a + b)

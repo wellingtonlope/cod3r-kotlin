@@ -1,4 +1,4 @@
-package funcamentos
+package fundamentos
 
 fun soma(a: Int, b: Int = 1): Int {
     return a + b

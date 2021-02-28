@@ -1,4 +1,4 @@
-package funcamentos.pacoteA
+package fundamentos.pacoteA
 
 fun simplesFuncao(texto: String): String {
     return "Texto = $texto"

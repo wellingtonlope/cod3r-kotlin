@@ -1,4 +1,4 @@
-package funcamentos
+package fundamentos
 
 /**
  * Só para dizer que o Kotlin suporta o KDoc... :)

@@ -1,4 +1,4 @@
-package funcamentos
+package fundamentos
 
 fun main() {
     val a: Int = 1

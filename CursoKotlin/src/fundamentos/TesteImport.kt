@@ -1,9 +1,9 @@
-package funcamentos
+package fundamentos
 
-import funcamentos.pacoteA.simplesFuncao as funcaoSimples
-import funcamentos.pacoteA.Coisa
-import funcamentos.pacoteA.FaceMoeda.CARA
-import funcamentos.pacoteB.*
+import fundamentos.pacoteA.simplesFuncao as funcaoSimples
+import fundamentos.pacoteA.Coisa
+import fundamentos.pacoteA.FaceMoeda.CARA
+import fundamentos.pacoteB.*
 
 fun main() {
     kotlin.io.println(funcaoSimples("Ok"))
